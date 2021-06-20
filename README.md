@@ -7,7 +7,7 @@
 - Heuristic
 
 ## Prerequisites:
-- (test)[https://www.facebook.com/]
+- [Python 2.7.0](https://www.python.org/download/releases/2.7/)
 
 ## Commands:
 ```python pacman.py```
