@@ -6,7 +6,7 @@
 - A*
 - Heuristic
 
-# Prerequisites:
+## Prerequisites:
 - (test)[https://www.facebook.com/]
 
 ## Commands:
