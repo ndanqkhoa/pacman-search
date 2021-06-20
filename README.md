@@ -1,3 +1,4 @@
+# Use search algorithm to help pacman find his way
 ### Commands
 ```python pacman.py```
 
