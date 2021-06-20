@@ -1,4 +1,10 @@
 # Use search algorithm to help pacman find his way
+## Target:
+- DFS
+- BFS
+- UCS
+- A*
+- Heuristic
 ### Commands
 ```python pacman.py```
 
