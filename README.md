@@ -5,6 +5,10 @@
 - UCS (Uniform Cost Search)
 - A*
 - Heuristic
+
+# Prerequisites:
+- Python 2.7
+
 ## Commands:
 ```python pacman.py```
 
