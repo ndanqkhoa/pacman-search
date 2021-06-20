@@ -1,3 +1,4 @@
+### Commands
 ```python pacman.py```
 
 ```python pacman.py --layout testMaze --pacman GoWestAgent```
