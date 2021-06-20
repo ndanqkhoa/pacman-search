@@ -1,8 +1,8 @@
 # Use search algorithm to help pacman find his way
 ## Target:
-- DFS
-- BFS
-- UCS
+- DFS (Depth First Search)
+- BFS (Breadth First Search)
+- UCS (Uniform Cost Search)
 - A*
 - Heuristic
 ### Commands
