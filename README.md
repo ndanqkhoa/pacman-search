@@ -5,7 +5,7 @@
 - UCS (Uniform Cost Search)
 - A*
 - Heuristic
-### Commands
+## Commands:
 ```python pacman.py```
 
 ```python pacman.py --layout testMaze --pacman GoWestAgent```
