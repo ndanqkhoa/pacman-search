@@ -7,7 +7,7 @@
 - Heuristic
 
 # Prerequisites:
-(Python 27)[https://www.python.org/download/releases/2.7]
+- (test)[https://www.python.org/download/releases/2.7/]
 
 ## Commands:
 ```python pacman.py```
