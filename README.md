@@ -1,4 +1,3 @@
-# Use search algorithm to help pacman find his way
 ## Target:
 - DFS (Depth First Search)
 - BFS (Breadth First Search)
@@ -9,7 +8,7 @@
 ## Prerequisites:
 - [Python 2.7.0](https://www.python.org/download/releases/2.7/)
 
-## Commands:
+## Run
 ```python pacman.py```
 
 ```python pacman.py --layout testMaze --pacman GoWestAgent```
